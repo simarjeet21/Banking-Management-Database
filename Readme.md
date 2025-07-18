@@ -1,5 +1,8 @@
 # Banking Management Database
 
+<img width="5110" height="3008" alt="output" src="https://github.com/user-attachments/assets/cf8bf00d-cd5b-4706-a5a6-43044b3f21d6" />
+
+
 ## Overview
 
 The **Banking Management Database** is a PostgreSQL-based solution designed to model, organize, and manage core banking operations. It includes well-structured tables, relationships, triggers, views, procedures, and user-defined functions to support efficient financial data management, customer tracking, transaction handling, and loan administration.
